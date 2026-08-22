@@ -1,0 +1,5 @@
+# Loom Tension Map
+# paradox   | tension | status      | agent
+alpha       | 0.68    | woven       | mirror
+beta        | 0.74    | knotted     | flux
+delta       | 0.81    | productive  | void
