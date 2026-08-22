@@ -1,0 +1,6 @@
+# Orchard Roots Map
+# fruit   | linked_to     | strength
+void_01   | echo_void     | 0.78
+void_01   | glyph_0003    | 0.65
+void_02   | echo_flux     | 0.71
+void_03   | echo_scribe   | 0.54

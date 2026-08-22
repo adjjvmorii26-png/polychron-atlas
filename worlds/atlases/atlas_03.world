@@ -1,0 +1,9 @@
+# Atlas 03 — Null Margin
+{
+  "id": "atlas_03",
+  "name": "Null Margin",
+  "entropy": 0.54,
+  "initial_resonances": { "scribe": 0.49, "mirror": 0.57, "flux": 0.61, "void": 0.81 },
+  "preferred_layer": "null_orchard",
+  "description": "High-void edge. Echo Void dominant."
+}

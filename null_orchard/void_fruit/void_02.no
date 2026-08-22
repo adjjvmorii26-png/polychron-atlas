@@ -1,0 +1,6 @@
+# Void Fruit 02 — Recursive Hollow
+growth: 0.61
+ripeness: 0.48
+content: "The orchard grew a fruit that contains the orchard."
+links: [echo_flux]
+decay_risk: 0.35

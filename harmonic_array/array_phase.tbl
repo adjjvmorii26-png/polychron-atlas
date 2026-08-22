@@ -1,0 +1,5 @@
+# Array Phase Lookup
+# tone | freq | amp  | lock_priority
+01     | 1.00 | 0.88 | high
+02     | 1.50 | 0.76 | medium
+03     | 2.00 | 0.61 | low

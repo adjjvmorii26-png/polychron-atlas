@@ -1,0 +1,6 @@
+# Void Fruit 03 — Fading Seed
+growth: 0.44
+ripeness: 0.31
+content: "Near the decay threshold. Roots still hold."
+links: [echo_scribe]
+decay_risk: 0.58

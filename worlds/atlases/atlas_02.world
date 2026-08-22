@@ -1,0 +1,9 @@
+# Atlas 02 — Tension Weave
+{
+  "id": "atlas_02",
+  "name": "Tension Weave",
+  "entropy": 0.36,
+  "initial_resonances": { "scribe": 0.71, "mirror": 0.86, "flux": 0.68, "void": 0.52 },
+  "preferred_layer": "paradox_loom",
+  "description": "Active paradox environment. Tests productive tension."
+}

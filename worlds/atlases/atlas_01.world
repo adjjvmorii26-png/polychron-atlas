@@ -1,0 +1,9 @@
+# Atlas 01 — Quiet Cartography
+{
+  "id": "atlas_01",
+  "name": "Quiet Cartography",
+  "entropy": 0.14,
+  "initial_resonances": { "scribe": 0.90, "mirror": 0.84, "flux": 0.51, "void": 0.38 },
+  "preferred_layer": "glyphstream",
+  "description": "Stable surface map. Ideal for first inscriptions."
+}

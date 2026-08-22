@@ -1,0 +1,7 @@
+# Collapse Echo 02
+source_atlas: atlas_02
+cycle: 63
+final_entropy: 0.59
+residual_resonance: 0.33
+echo: "Paradox tension spiked. Loom knots re-archived as echo."
+reforge_atlas_candidate: atlas_01

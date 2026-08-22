@@ -1,0 +1,6 @@
+# Void Fruit 01 — First Absence
+growth: 0.72
+ripeness: 0.55
+content: "Null space yielded a form that is not a form."
+links: [echo_void, glyph_0003]
+decay_risk: 0.22
