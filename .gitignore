@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.env
+.env.*
+node_modules/
+.vercel/
+*.log
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
