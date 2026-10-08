@@ -3,5 +3,5 @@
   "boot": "atlas_boot.sh",
   "entrypoint": "glyphstream/glyphstream_flow.js",
   "domains": ["echo_parliament","glyphstream","harmonic_array","horizon_vault","null_orchard","paradox_loom","worlds"],
-  "invariants": ["boot_exists","entrypoint_exists","all_domains_present","no_empty_domain"]
+  "invariants": ["boot_exists","entrypoint_exists","all_domains_present","no_empty_domain","ledger_contract"]
 }
